@@ -35,7 +35,7 @@ namespace SimpleAPI.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-           return "Amol22";
+           return "Amol";
         }
     }
 }
